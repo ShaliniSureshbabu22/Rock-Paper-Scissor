@@ -1,6 +1,6 @@
 # Rock-Paper-Scissor
 #Rock Paper Scissors game by marsian
-print("\n\n\nRock Paper Scissors by marsian83\n\npresss Ctrl+. when you feel like exitting the game.")
+print("\n\n\nRock Paper Scissors\n\npresss Ctrl+. when you feel like exitting the game.")
 input("\n\n<<PRESS ENTER TO BEGIN>>\n")
 print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
 
